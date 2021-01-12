@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Hoe Sung Ryu
 ⚡ Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a><p> 
-🔥 Research Interest: Computer Vision & Emotional touch // Decision Making & Reinforcement Learning // Mathematical Modeling & Computing
+🔥 Research Interest: Computer Vision & Emotional touch // Decision Making & Reinforcement Learning // Mathematical Modeling
 
 <hr>
 

@@ -6,4 +6,4 @@
 
 **📈 My GitHub Stats**
 
-![hoesungryu's github stats](https://github-readme-stats.vercel.app/api?username=hoesungryu&show_icons=true&theme=radical)
+![hoesungryu's github stats](https://github-readme-stats.vercel.app/api?username=hoesungryu&show_icons=true&theme=onedark)

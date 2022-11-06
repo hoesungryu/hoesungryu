@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Hoe Sung Ryu
-⚡ Current Position: Ph.D candidate <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a><p> 
+⚡ Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a><p> 
 🔥 Research Interest: Human-Centered AI // Decision Making // Mathematical Modeling // 
 
 ### A brief description of my research

@@ -1,6 +1,5 @@
 ### Hi 👋, I'm Hoe Sung Ryu
-⚡ Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a><p> 
-🔥 Research Interest: Human-Centered AI // Decision Making // Mathematical Modeling // 
+🔥 Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a><p> 
 
 ### A brief description of my research
 The purpose of my research is to enhance the capabilities of intelligence of machine learning by way of human-informed technology. Through its combination of the precision of machine learning with human input and values, we will be able to make more informed decisions and develop clear strategies and solutions to the challenges. <p>

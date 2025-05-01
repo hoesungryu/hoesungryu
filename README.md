@@ -2,7 +2,7 @@
 
 <p align="center">
 🔥 <b>Ph.D. Candidate</b> in the Department of Artificial Intelligence at <b>Korea University</b><br>
-<i>"Animum fortuna sequitur"</i><br>
+<i>"Animum fortuna sequitur"</i>
 <sub><i>— Fortune follows the brave</i></sub>
 </p>
 

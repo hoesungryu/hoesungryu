@@ -1,6 +1,31 @@
-### Hi 👋, I'm Hoe Sung Ryu
-🔥 Current Position: Ph.D student <a href="http://xai.korea.ac.kr/">in the Department of Artificial Intelligence at Korea University.</a><p> 
+<h1 align="center">Hi 👋, I'm Hoe Sung Ryu</h1>
 
-### A brief description of my research
-The purpose of my research is to enhance the capabilities of intelligence of machine learning by way of human-informed technology. Through its combination of the precision of machine learning with human input and values, we will be able to make more informed decisions and develop clear strategies and solutions to the challenges. <p>
-In our previous work, we ask how well humans and a deep neural network (DNN) predicted the emergency decision. We have shown that the DNN out-performed humans for early time points, but had an equal performance for later time points. With Grad-CAM visualization technics, we found that the DNN could focus on the meaningful features (steering wheel and hill ridge) but could not capture the time importance.
+<p align="center">
+🔥 <b>Ph.D. Candidate</b> in the Department of Artificial Intelligence at <b>Korea University</b><br>
+<i>"Animum fortuna sequitur"</i><br>
+<sub><i>— Fortune follows the brave</i></sub>
+</p>
+
+---
+
+### 🧠 Brief Description of My Research
+
+I focus on understanding and modeling the perceptual and cognitive differences between **humans and AI systems**, particularly in **high-stakes decision-making scenarios**. My research interests include:
+
+- ⚖️ Human-AI benchmarking  
+- 👁️ Gaze-based attention modeling  
+- 🧠 Cognitive state inference from behavior  
+- 🎥 Video understanding with Large Vision-Language Models (LVLMs)
+
+---
+
+### 🔗 Connect with me
+
+<p>
+  <a href="https://www.researchgate.net/profile/YourName" target="_blank">
+    <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=YourScholarID" target="_blank">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</p>

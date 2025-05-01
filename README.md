@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 Brief Description of My Research
+### 📌 Brief Description of My Research
 
 I focus on understanding and modeling the perceptual and cognitive differences between **humans and AI systems**, particularly in **high-stakes decision-making scenarios**. My research interests include:
 

@@ -22,7 +22,7 @@ I focus on understanding and modeling the perceptual and cognitive differences b
 ### 🔗 Connect with me
 
 <p>
-  <a href="https://www.researchgate.net/profile//Hoe-Ryu" target="_blank">
+  <a href="https://www.researchgate.net/profile/Hoe-Ryu" target="_blank">
     <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=mO5hGlkAAAAJ&hl=en&oi=ao" target="_blank">

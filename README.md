@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoe Sung Ryu</h1>
 
 <p align="center">
-🏫 <b>Ph.D. Candidate</b> in the Department of Artificial Intelligence at <b>Korea University</b><br>
+🏫 <b>Ph.D.</b> in the Department of Artificial Intelligence at <b>Korea University</b><br>
 🔥  Member of <a href="https://cogsys.korea.ac.kr/home" target="_blank"><b>Cognitive Systems Lab</b></a><br>
 <i>"Animum fortuna sequitur"</i>
 <sub><i>— Fortune follows the brave</i></sub>
